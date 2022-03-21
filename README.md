@@ -1,6 +1,7 @@
  <h1>Flux set up at home hardware </h1>
  <br> Watch this <a href="https://youtu.be/jH-M3MAMTV8" target="_blank">Video</a> & set up your Flux Node &
  Make sure to <a href="http://bit.ly/Simplyeverythingcrypto" target="_blank">subscribe</a>
+ <br> <h4>Note once you use flux on the device, the device can't be used to surf the internet etc/ you will "sell" your device's computing power to the network and it will be unusable unless you uninstall flux, so if you are using your main desktop to run flux nodes, do make sure you run it on a VMWare / virtual box.  </h4>
  <br> Note, you will need to have at least 100 confirmation on your collateral read Part 5.
  <br> <h3>Requirements</h3>
  <br> 1. At least 1,000 Flux to get started, Buy Flux on <a href="https://bit.ly/SignUpKucoinToday" target="_blank">Kucoin</a> or <a href="https://accounts.binance.com/en/register?ref=TQG402UF" target="_blank">Binance</a>
