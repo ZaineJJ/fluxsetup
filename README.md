@@ -5,6 +5,12 @@
  <br> <h3>Requirements</h3>
  <br> 1. At least 1,000 Flux to get started, Buy Flux on <a href="https://bit.ly/SignUpKucoinToday" target="_blank">Kucoin</a> or <a href="https://accounts.binance.com/en/register?ref=TQG402UF" target="_blank">Binance</a>
  <br> 2. Your own hardware depending on which tier you go for <a href="https://runonflux.io/flux-nodes.html" target="_blank">Read Here</a> / A VPS
+ <br> Hardware For Tiers
+ <br>Cumulus NUC - https://amzn.to/3trk1EC
+ <br>Nimbus NUC Barebone - https://amzn.to/3KXASVx 
+ <br>NUC 32gb Ram - https://amzn.to/3Ir04lu
+ <br>500GB NVMe - https://amzn.to/3JujZl5
+
 
 <h2> Part 1 Getting Ubuntu Server</h2>
  <br>a. Download the <a href="https://ubuntu.com/download/server" target="_blank">latest ubuntu Server</a>
@@ -61,7 +67,7 @@ Search for your Hardware Mac Address on your router and assign them the default 
  
  <br>a. If you installed cockpit on optional step you can just login by entering the IPv4 you copied on step "Option Steps a." on browser with :9090 e.g "192.168.1.241:9090" and login else go to "5b."
  <br>b. Go to ZelCore wallet | <a href="https://zelcore.io/" target="_blank">[Download]</a> if you haven't
- <br>c. Send fund of 1,000 / 12,500 / 25,000 Flux exactly in a Single Transaction for collateral to either wallet shown on ZelCore and wait for 100 confirmations. 
+ <br>c. Send fund of 1,000 / 12,500 / 40,000 Flux exactly in a Single Transaction for collateral to either wallet shown on ZelCore and wait for 100 confirmations. 
  <br> If you send funds via exchanges, funds will not be exactly due to the fees they charge or send to many address, You have to an internal transfer from your ZelCore Wallet to another internally.
  <br> On ZelCore select the wallet you sent Flux to and choose <b>Flux</b> > Menu page <b>"More"</b> > Select <b>FluxNodes.</b> 
  <br>d. you will see under <b>"My FluxNodes"</b> the node will show the tier depending on how much Flux you sent on a single transaction for collateral. Open it up and select <b>"edit"</b>, You will find the Identity Key, Collateral TX ID & Output Index, remember this step you will need them. 
@@ -92,5 +98,6 @@ Search for your Hardware Mac Address on your router and assign them the default 
  
  <br><br>
  <br>Feel free to some milk powder on Flux - "t1fM5bjG4ximyDgAhRnFmqf8zhQ7xfBwanh"
- <br>Or you wan send via BSC/ETH/Polygon - "0xE9E129aD58108B99c432AB00A92a82fC68bc2a90"
+ <br>Or you wan 
+ via BSC/ETH/Polygon - "0xE9E129aD58108B99c432AB00A92a82fC68bc2a90"
  <br>Or some digital gold BTC - "35qUZ5urRiVqJRvj8CuAN3cMxNMurFvHz3"
